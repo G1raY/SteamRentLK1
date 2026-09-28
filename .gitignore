@@ -1,0 +1,12 @@
+.env
+venv/
+.venv/
+__pycache__/
+*.pyc
+.idea/
+*.log
+database.db
+database.db-shm
+database.db-wal
+chromedriver.exe
+botHandler/accounts/
